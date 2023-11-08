@@ -10,7 +10,7 @@ tags: ethereum, blockchain, nfts, cryptocurrency
 Ethereum blockchain is making its move to proof-of-stake from proof-of-work.
 
 ## When it is happening?
-Around 15 September 2022 6 AM Eastern Time (not confirmed).
+Around 15 September 2022 6 AM Eastern Time.
 
 ## Why does anybody care about it?
 What does it mean for blockchain enthusiasts or why does anybody care about it? why are we even talking about it?. I think even if you are not into cryptocurrencies/NFTs and thinks that these things are just man-made artificial bubble waiting to get burst. Just think in an another perspective.
