@@ -15,8 +15,8 @@ struct Shayan18GithubIo: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://your-website-url.com")!
-    var name = "Shayan18GithubIo"
-    var description = "A description of Shayan18GithubIo"
+    var name = "Shayan Ali"
+    var description = "A tiny letul human being, trying to code to make a living"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
